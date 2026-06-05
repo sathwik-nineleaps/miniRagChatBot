@@ -63,4 +63,4 @@ mini-rag-chatbot/
 └── chatbot_answer.png
 ```
 Author
-Neha S Virgil
+Sathwik Kattekola
